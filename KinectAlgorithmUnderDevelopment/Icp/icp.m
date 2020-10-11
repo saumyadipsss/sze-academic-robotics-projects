@@ -586,7 +586,7 @@ FF = freeBoundary(TR);
 
 %Output
 bound = FF(:,1);
- 
+ disp('This is the end of this file')
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
  
